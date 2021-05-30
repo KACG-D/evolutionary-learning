@@ -7,10 +7,11 @@
 
 元論文と近い結果を示すことが出来た．
 
-結果
+#結果
 
 ![学習結果](https://github.com/KACG-D/evolutionary-learning/blob/main/elearning.gif?raw=true "学習結果")
 
 
-参考文献
+#参考文献
+
 [2]Learning To Be Imperfect: The Ultimatum Game* P.76 FIG. 2. Phase diagram, no noise
